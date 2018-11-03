@@ -1,4 +1,4 @@
-package org.arbielezi.learning.mysfgpetclinic;
+package mysfgpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
